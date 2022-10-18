@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="Logo.png" alt="logo" width="200" height="auto" />
+  <img src="Icon@3x.png" alt="logo" width="200" height="auto" />
   <h1>Meetr</h1>
   
   <p>
@@ -29,9 +29,11 @@ Who is an app where the players send the phone around the table voting on who sh
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="Who_1.jpg" alt="screenshot" />
-  <img src="Who_2.jpg" alt="screenshot" />
-  <img src="Who_3.jpg" alt="screenshot" />
+  <img src="Meetr_1.jpg" alt="screenshot" />
+  <img src="Meetr_2.jpg" alt="screenshot" />
+  <img src="Meetr_3.jpg" alt="screenshot" />
+  <img src="Meetr_4.jpg" alt="screenshot" />
+  <img src="Meetr_5.jpg" alt="screenshot" />
 </div>
 
 
@@ -45,4 +47,4 @@ Who is an app where the players send the phone around the table voting on who sh
 <!-- License -->
 ## :warning: License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the MIT License.
