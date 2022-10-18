@@ -23,7 +23,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-Who is an app where the players send the phone around the table voting on who should do the action.
+Meetr is an app where you first can see the person you have been chatting with after you have been writing with the person long enough. Moreover you only get a certain amount of matches per day so people don't just swipe endlessly because there is also a more interestin person next swipe but engage in the person the matches with and gets to know them. The profiles descriptions are only allowed to be short confined descriptions about yourself so it is less about the first impression but 
 
 <!-- Screenshots -->
 ### :camera: Screenshots
